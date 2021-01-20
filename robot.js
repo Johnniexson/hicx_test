@@ -1,4 +1,3 @@
-//Usage: node robot.js < test.txt
 
 //Init Grid
 function Grid(width, height) {
