@@ -1,15 +1,3 @@
-## Introduction
-
-Don’t stress about the challenge too much – it’s supposed to be fun and a way for us to get a
-feel for your level of experience.
-The problem is provided with sample data to be used for testing and the candidate should be
-able to demonstrate that their solution uses the supplied data in the form of a unit test or a
-simple user interface. User interface design is not the main focus of the problem.
-You are free to develop your solution using the language of your choosing. You can use any
-frameworks you wish. Please produce your code to what you would consider to be production
-quality.
-Zip your solution up and attach it on Teams in the interview channel. We should be able to run
-your code with no crazy steps.
 
 ## Problem: Martian Robots
 
